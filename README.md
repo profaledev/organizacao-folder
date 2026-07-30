@@ -405,9 +405,7 @@ E inserir uma frase dentro de cada arquivo.
 
 ---
 
-# 🔥 Extra (para impressionar)
-
-Peça para eles:
+# 🔥 Extra 
 
 * Usar `clear`
 * Usar `history`
